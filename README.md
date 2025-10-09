@@ -3,7 +3,7 @@
 # 🌐 FAHIM MORSHED RATUL 🌐
 ### `> Software Developer & Web Designer`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+the+Digital+Matrix;CSE+Student+%7C+MIST;AI+Agent+Developer;Computer+Science+Enthusiast;Exploring+the+Future+of+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+the+FAHIM+RATUL+Github;CSE+Student+%7C+MIST;Computer+Science+Enthusiast;Exploring+the+Future+of+Tech" alt="Typing SVG" />
 
 </div>
 
