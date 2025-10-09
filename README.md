@@ -1,68 +1,125 @@
-<h2 align="left">Fah Morshed Ratul</h2>
+<div align="center">
 
-###
+# 🌐 FAHIM MORSHED RATUL 🌐
+### `> Software Developer & Web Designer`
 
-<p align="left">Fahim Morshed Ratul, from Bangladesh, is a student of CSE at the Military Institute of Technology(MIST). I am looking forward to working hard and developing my skills.</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+the+Digital+Matrix;CSE+Student+%7C+MIST;AI+Agent+Developer;Computer+Science+Enthusiast;Exploring+the+Future+of+Tech" alt="Typing SVG" />
 
-###
+</div>
+
+---
+
+### 🔮 **NEURAL NETWORK PROFILE**
+```python
+class SabitSiraji:
+    def __init__(self):
+        self.location = "Dhaka, Bangladesh 🇧🇩"
+        self.education = "CSE @ Military Institute of Science & Technology"
+        self.interests = ["Computer Science", "AI Agent Development"]
+        self.status = "Exploring the digital frontier"
+        self.mission = "Building intelligent systems for tomorrow"
+    
+    def get_vision(self):
+        return "Transforming ideas into AI-powered reality"
+```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahimratul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimratul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
+<img alt="Cyberpunk Coding" width="600" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.facebook.com/fa.ratul.185/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://discord.com/fahimratul" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="240" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/fahimratul/count.svg?"  />
-</div>
-
-###
 
 <br clear="both">
 
+&nbsp;
+
+---
+
+<div align="center">
+
+## 🚀 **SYSTEM METRICS** 🚀
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sabit166&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0080&text_color=ffffff" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabit166&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&layout=compact" height="180"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ **TECH ARSENAL** ⚡
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,tensorflow,pytorch,git,vscode,linux,arduino&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 **CURRENT MISSION OBJECTIVES**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2000&pause=500&color=FF0080&center=true&vCenter=true&width=800&lines=🤖+Developing+Intelligent+AI+Agents;🧠+Mastering+Machine+Learning+Algorithms;🔬+Exploring+Deep+Learning+Architectures;💻+Building+Next-Gen+Software+Solutions" alt="Mission Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 **ACTIVITY FEED** 🌟
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabit166&bg_color=0d1117&color=00ff41&line=ff0080&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📡 **CONNECT TO THE NETWORK** 📡
+
+<a href="mailto:sabitsiraji@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://www.linkedin.com/in/sabit-siraji-1732b9259/">
+  <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117" />
+</a>
+<a href="https://www.facebook.com/sabit.siraji">
+  <img src="https://img.shields.io/badge/Facebook-FF0080?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://www.instagram.com/sabit7400/">
+  <img src="https://img.shields.io/badge/Instagram-00FF41?style=for-the-badge&logo=instagram&logoColor=black&labelColor=0d1117" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎮 **DIGITAL PLAYGROUND** 🎮
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahimratul/fahimratul/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahimratul/fahimratul/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fahimratul/fahimratul/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-###
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+realm!;Let's+build+the+future+together!;The+Matrix+awaits..." alt="Footer Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=Sabit166&color=00ff41&style=for-the-badge&label=VISITORS" />
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,25,17&height=100&section=footer" width="100%"/>
+</div>
