@@ -37,9 +37,9 @@ class SabitSiraji:
 
 ## 🚀 **SYSTEM METRICS** 🚀
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sabit166&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0080&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=fahimratul&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0080&text_color=ffffff" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabit166&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&layout=compact" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimratul&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&layout=compact" height="180"/>
 
 </div>
 
@@ -49,7 +49,7 @@ class SabitSiraji:
 
 ## ⚡ **TECH ARSENAL** ⚡
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,tensorflow,pytorch,git,vscode,linux,arduino&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,tensorflow,pytorch,git,github,matlab,vscode,linux,arduino,cloudflare,php,discord,flask&theme=dark&perline=3" alt="skill icons">
 
 </div>
 
@@ -59,7 +59,7 @@ class SabitSiraji:
 
 ## 🎯 **CURRENT MISSION OBJECTIVES**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2000&pause=500&color=FF0080&center=true&vCenter=true&width=800&lines=🤖+Developing+Intelligent+AI+Agents;🧠+Mastering+Machine+Learning+Algorithms;🔬+Exploring+Deep+Learning+Architectures;💻+Building+Next-Gen+Software+Solutions" alt="Mission Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2000&pause=500&color=00FFBF&center=true&vCenter=true&width=800&lines=🤖+Developing+Intelligent+AI+Agents;🧠+Mastering+Machine+Learning+Algorithms;🔬+Exploring+Deep+Learning+Architectures;💻+Building+Next-Gen+Software+Solutions" alt="Mission Typing SVG" />
 
 </div>
 
@@ -69,7 +69,7 @@ class SabitSiraji:
 
 ## 🌟 **ACTIVITY FEED** 🌟
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabit166&bg_color=0d1117&color=00ff41&line=ff0080&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahimratul&bg_color=0d1117&color=00ff41&line=ff0080&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -79,19 +79,9 @@ class SabitSiraji:
 
 ## 📡 **CONNECT TO THE NETWORK** 📡
 
-<a href="mailto:sabitsiraji@gmail.com">
+<a href="mailto:fmratul2@gmail.com@gmail.com">
   <img src="https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
-<a href="https://www.linkedin.com/in/sabit-siraji-1732b9259/">
-  <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117" />
-</a>
-<a href="https://www.facebook.com/sabit.siraji">
-  <img src="https://img.shields.io/badge/Facebook-FF0080?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" />
-</a>
-<a href="https://www.instagram.com/sabit7400/">
-  <img src="https://img.shields.io/badge/Instagram-00FF41?style=for-the-badge&logo=instagram&logoColor=black&labelColor=0d1117" />
-</a>
-
 </div>
 
 ---
