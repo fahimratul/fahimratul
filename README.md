@@ -11,7 +11,7 @@
 
 ### 🔮 **NEURAL NETWORK PROFILE**
 ```python
-class SabitSiraji:
+class FahimMorshedRatul:
     def __init__(self):
         self.location = "Dhaka, Bangladesh 🇧🇩"
         self.education = "CSE @ Military Institute of Science & Technology"
