@@ -83,9 +83,11 @@ class FahimMorshedRatul:
 <a href="mailto:fmratul2@gmail.com@gmail.com">
   <img src="https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
-< a href="fahimratul.pages.dev">
-    <img src="https://img.shields.io/badge/Website-fdf0d5?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
+<a href="fahimratul.pages.dev">
+  <img src="https://img.shields.io/badge/Website-fdf0d5?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
 </a>
+
+
 </div>
 
 ---
