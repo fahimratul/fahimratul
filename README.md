@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,25,17&height=100&section=footer" width="100%](https://capsule-render.vercel.app/api?type=venom&height=311&color=gradient&text=FAHIM%20MORSHED%20RATUL&reversal=false&fontColor=caf0f8&fontAlign=50&animation=twinkling&stroke=00b4d8&strokeWidth=4&section=header&textBg=false)"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=311&color=gradient&text=FAHIM%20MORSHED%20RATUL&reversal=false&fontColor=caf0f8&fontAlign=50&animation=twinkling&stroke=00b4d8&strokeWidth=4&section=header&textBg=false"/>
 
 ### `> Software Developer & Web Designer`
 
