@@ -1,6 +1,10 @@
 <div align="center">
 
-# 🌐 FAHIM MORSHED RATUL 🌐
+
+<div align="center">
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,25,17&height=100&section=footer" width="100%](https://capsule-render.vercel.app/api?type=venom&height=311&color=gradient&text=FAHIM%20MORSHED%20RATUL&reversal=false&fontColor=caf0f8&fontAlign=50&animation=twinkling&stroke=00b4d8&strokeWidth=4&section=header&textBg=false)"/>
+</div>
+
 ### `> Software Developer & Web Designer`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+the+FAHIM+RATUL+Github;CSE+Student+%7C+MIST;Computer+Science+Enthusiast;Exploring+the+Future+of+Tech" alt="Typing SVG" />
@@ -47,9 +51,9 @@ class FahimMorshedRatul:
 
 <div align="center">
 
-## ⚡ **TECH ARSENAL** ⚡
+# ⚡ **TECH ARSENAL** ⚡
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,tensorflow,pytorch,git,github,matlab,vscode,linux,arduino,cloudflare,php,discord,flask&theme=dark&perline=3" alt="skill icons">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,tensorflow,pytorch,git,github,matlab,vscode,linux,arduino,cloudflare,php,discord,flask&theme=dark&perline=6" alt="skill icons">
 
 </div>
 
@@ -82,6 +86,9 @@ class FahimMorshedRatul:
 <a href="mailto:fmratul2@gmail.com@gmail.com">
   <img src="https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
+< a href="fahimratul.pages.dev">
+    <img src="https://img.shields.io/badge/Website-fdf0d5?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
+</a>
 </div>
 
 ---
@@ -104,7 +111,7 @@ class FahimMorshedRatul:
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+realm!;Let's+build+the+future+together!;The+Matrix+awaits..." alt="Footer Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Sabit166&color=00ff41&style=for-the-badge&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=fahimratul&color=00ff41&style=for-the-badge&label=VISITORS" />
 
 </div>
 
